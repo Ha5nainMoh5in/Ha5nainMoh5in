@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm a tech enthusiastic person.
-Currently, working on Android App Development
+Currently, working on Android App
 <!--
 **Ha5nainMoh5in/Ha5nainMoh5in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
